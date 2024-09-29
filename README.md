@@ -1,4 +1,4 @@
-## Hi there 👋 [[![](https://visitcount.itsvg.in/api?id=Acrto3Hil3&icon=8&color=13)](https://visitcount.itsvg.in)]
+## Hi there 👋 [![](https://visitcount.itsvg.in/api?id=Acrto3Hil3&icon=8&color=13)](https://visitcount.itsvg.in)
 
 <!--
 **Acrto3Hil3/Acrto3Hil3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+🔭 I’m currently working on **Developing web applications using Java, Spring Boot, and ReactJS.**<br>
+👯 I’m looking to collaborate on **Full-stack development projects involving Java and microservices.**<br>
+🤝 I’m looking for help with **Improving scalability and performance optimization of web applications.**<br>
+🌱 I’m currently learning **Spring Boot, Hibernate, and advanced microservice design.**<br>
+💬 Ask me about **Java development, Spring framework, and database management.**<br>
+⚡ Fun fact
 
 
 ## 🌐 Socials:
