@@ -42,7 +42,9 @@ Here are some ideas to get you started:
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ### 🔝 Top Contributed Repo
-<img src="https://github-contributor-stats.vercel.app/api?username=Acrto3Hil3&limit=5&theme=radical&combine_all_yearly_contributions=true" width="100%">
+<img src="https://github-contributor-stats.vercel.app/api?username=Acrto3Hil3&limit=5&theme=radical&combine_all_yearly_contributions=true" style="width:100%;" />
+
+
 
 
 ---
